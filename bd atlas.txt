@@ -1,0 +1,4 @@
+aicos
+GCdMdnd1RdQsQKue
+
+mongodb+srv://aicos:GCdMdnd1RdQsQKue@cluster0.czana.mongodb.net/cafe
